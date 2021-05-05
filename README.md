@@ -1,4 +1,4 @@
-![how to make a chat app with flutter by theindianappguy](https://user-images.githubusercontent.com/55942632/81176283-938adc80-8fc2-11ea-8d59-7392205a1ed0.png)
+![how to make a chat app with flutter by Vishnu](https://user-images.githubusercontent.com/55942632/81176283-938adc80-8fc2-11ea-8d59-7392205a1ed0.png)
 
 Installation
 
@@ -13,10 +13,7 @@ flutter run
 
 ### Learn
 
-About Course : We will build Fully Functioning Chat App with Flutter & Firebase in 5 hours  the course is divided into 4 Parts, Everything is explained with single prerequisite of having flutter installed and run at least the sample app that's all
-
-Full PlayList : https://www.youtube.com/playlist?list=PLBxWkM8PLHcr2vkdY2n9rIcxjZ9Th3Us7
-
+About Course : We will build Fully Functioning Chat App with Flutter & Firebase in 5 hours  
 📕 Things covered in this Series:
 • Firebase Auth :  Sign in, Sign up and Sign out
 • Firebase Firestore : Upload & Retrieve data stored in Cloud Firestore
@@ -27,18 +24,11 @@ Full PlayList : https://www.youtube.com/playlist?list=PLBxWkM8PLHcr2vkdY2n9rIcxj
 
 ### Created & Maintained By
 
-[Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/Theindianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> - [PayPal](https://paypal.me/iamsanskartiwari)
- 
-> You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate
+[Vishnu V S]
 
 ### License
 
-    Copyright 2020 Sanskar Tiwari
+    Copyright 2020 Vishnu V S
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
